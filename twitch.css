@@ -1,0 +1,52 @@
+.logoImage{
+	max-width:50px;
+	max-height:50px;
+	border-radius:50%;
+	border: 3px solid #4DADBD;
+}
+
+body{
+	background:#585858;
+}
+.container{
+	max-width:800px;
+	padding-top:20px;
+}
+a{
+	color:#4DADBD;
+}
+a:hover,a:focus{
+	text-decoration: none;
+}
+
+.header{
+	background:#FDF3E7;
+	padding:20px 0px;
+	border: 5px solid #DDD;
+}
+.header h1{
+	margin:0;
+	padding:0;
+}
+.select{
+	background:#BBB;
+	padding:10px;
+}
+.online{
+	background:#CCC;
+	border: 5px solid #F5F3EE;
+}
+.offline{
+	background:#DDD;
+	border: 5px solid #F5F3EE;
+}
+.content{
+	padding:10px;
+
+}
+.row{
+	margin:0;
+}
+.btn{
+	margin-bottom:1px;
+}
